@@ -1,4 +1,4 @@
-Requires Python 3 and Scapy.
+Make sure input mac ect correctly, Requires Python 3 and Scapy.
 
 Connect your PS4 directly to PC via LAN cable.
 Set up your PS4 for manual ethernet connection via PPPoE - insert any username/password.
